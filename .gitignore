@@ -1,0 +1,17 @@
+*.conf
+*.sh
+/tts
+/deps
+/node_modules
+*.db
+*.log
+*.pickle
+*.json
+.D*
+.H*
+/.*
+._*
+.h*
+.s*
+.u*
+secrets.yaml
