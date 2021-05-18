@@ -1,5 +1,5 @@
 # rumah-assistant
-## 🏠 HASS Configuration & Documentation @ Rumah IT
+## 🏠 Configuration & Documentation @ Rumah Assistant
 
 ### All commits removed, temporarily orphaned ❌ 😫
 
