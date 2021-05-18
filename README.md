@@ -1,5 +1,5 @@
 # rumah-assistant
-## 🏠 Configuration & Documentation @ Rumah Assistant
+## 🏠 Configuration & Documentation @ Rumah IT (Irvan Tristian)
 
 ### All commits removed, temporarily orphaned ❌ 😫
 
